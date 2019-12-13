@@ -13,7 +13,7 @@ public class HelloSpringApp {
 		//call methods on the bean
 	System.out.println(theCoach.getDailyWorkout());	
 	
-	//lets call our new method for fortunes
+	//lets call our new methhod for fortunes
 	
 	System.out.println(theCoach.getDailyFortune());
 	//close the context
